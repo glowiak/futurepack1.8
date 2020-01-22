@@ -1,0 +1,1 @@
+java -Xms256m -Xmx256m -cp "%instances\FuturePack\bin\minecraft.jar;instances\FuturePack\bin\jinput.jar;instances\FuturePack\bin\lwjgl.jar;instances\FuturePack\bin\lwjgl_util.jar" -Djava.library.path="instances\FuturePack\bin\natives" net.minecraft.client.Minecraft

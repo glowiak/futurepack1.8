@@ -1,0 +1,1 @@
+java -Xms256m -Xmx256m -cp "%instances\ModernWarfare\bin\minecraft.jar;instances\ModernWarfare\bin\jinput.jar;instances\ModernWarfare\bin\lwjgl.jar;instances\ModernWarfare\bin\lwjgl_util.jar" -Djava.library.path="instances\ModernWarfare\bin\natives" net.minecraft.client.Minecraft
